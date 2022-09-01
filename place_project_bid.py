@@ -38,7 +38,6 @@ from freelancersdk.resources.projects.exceptions import \
 
 import os
 import json
-
 import time
 import requests
 
